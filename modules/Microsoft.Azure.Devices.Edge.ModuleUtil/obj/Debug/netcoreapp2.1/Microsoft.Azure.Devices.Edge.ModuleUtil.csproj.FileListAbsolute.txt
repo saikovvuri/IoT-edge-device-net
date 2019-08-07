@@ -1,0 +1,12 @@
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\bin\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.deps.json
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\bin\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.dll
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\bin\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.pdb
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\bin\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.Util.dll
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\bin\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.Util.pdb
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\obj\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.csprojAssemblyReference.cache
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\obj\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.csproj.CoreCompileInputs.cache
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\obj\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.AssemblyInfoInputs.cache
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\obj\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.AssemblyInfo.cs
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\obj\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.csproj.CopyComplete
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\obj\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.dll
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.ModuleUtil\obj\Debug\netcoreapp2.1\Microsoft.Azure.Devices.Edge.ModuleUtil.pdb

@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sakovvu\\source\\repos\\EdgeSolution\\modules\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sakovvu\\source\\repos\\EdgeSolution\\modules\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sakovvu\\source\\repos\\EdgeSolution\\modules\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj",
+        "projectName": "Microsoft.Azure.Devices.Edge.Util",
+        "projectPath": "C:\\Users\\sakovvu\\source\\repos\\EdgeSolution\\modules\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj",
+        "packagesPath": "C:\\Users\\sakovvu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sakovvu\\source\\repos\\EdgeSolution\\modules\\Microsoft.Azure.Devices.Edge.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sakovvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "App.Metrics": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "App.Metrics.Reporting.InfluxDB": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "App.Metrics.Reporting.TextFile": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Nito.AsyncEx": {
+              "target": "Package",
+              "version": "[5.0.0-pre-05, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

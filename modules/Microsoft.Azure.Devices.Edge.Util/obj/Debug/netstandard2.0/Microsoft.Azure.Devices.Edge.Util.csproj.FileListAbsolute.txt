@@ -1,0 +1,8 @@
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\bin\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.deps.json
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\bin\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.dll
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\bin\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.pdb
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\obj\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.csproj.CoreCompileInputs.cache
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\obj\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.AssemblyInfoInputs.cache
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\obj\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.AssemblyInfo.cs
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\obj\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.dll
+C:\Users\sakovvu\source\repos\EdgeSolution\modules\Microsoft.Azure.Devices.Edge.Util\obj\Debug\netstandard2.0\Microsoft.Azure.Devices.Edge.Util.pdb

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleModule", "..\SampleModule\SampleModule.csproj", "{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Azure.Devices.Edge.Util", "..\Microsoft.Azure.Devices.Edge.Util\Microsoft.Azure.Devices.Edge.Util.csproj", "{BB71BB13-CCA2-4064-A9DE-04222062090F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Azure.Devices.Edge.ModuleUtil", "..\Microsoft.Azure.Devices.Edge.ModuleUtil\Microsoft.Azure.Devices.Edge.ModuleUtil.csproj", "{80380D3D-2300-4F9D-B565-28AF56C4B667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CheckInBuild|Any CPU = CheckInBuild|Any CPU
+		CodeCoverage|Any CPU = CodeCoverage|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.CheckInBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.CheckInBuild|Any CPU.Build.0 = Debug|Any CPU
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.CodeCoverage|Any CPU.ActiveCfg = Debug|Any CPU
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.CodeCoverage|Any CPU.Build.0 = Debug|Any CPU
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A162E9E0-A26D-486B-BBED-61D86BA5FE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.CheckInBuild|Any CPU.ActiveCfg = CheckInBuild|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.CheckInBuild|Any CPU.Build.0 = CheckInBuild|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.CodeCoverage|Any CPU.ActiveCfg = CodeCoverage|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.CodeCoverage|Any CPU.Build.0 = CodeCoverage|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB71BB13-CCA2-4064-A9DE-04222062090F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.CheckInBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.CheckInBuild|Any CPU.Build.0 = Debug|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.CodeCoverage|Any CPU.ActiveCfg = Debug|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.CodeCoverage|Any CPU.Build.0 = Debug|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80380D3D-2300-4F9D-B565-28AF56C4B667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10BBED5F-08D7-4476-88BD-D5EB3944C35F}
+	EndGlobalSection
+EndGlobal
