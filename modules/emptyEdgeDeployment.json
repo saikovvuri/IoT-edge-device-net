@@ -1,0 +1,32 @@
+{
+    "modulesContent": {
+      "$edgeAgent": {
+        "properties.desired": {
+          "schemaVersion": "1.0",
+          "runtime": {
+            "type": "docker",
+            "settings": {
+              "minDockerVersion": "v1.25",
+              "loggingOptions": "",
+              "registryCredentials": {
+                "edgerepository": {
+                  "username": "edgerepository",
+                  "password": "XAurn92qB95jqO2RoOYgJOsx=vgzDxn6",
+                  "address": "edgerepository.azurecr.io"
+                }
+              }
+            }
+          },
+          "systemModules": {
+            "edgeAgent": {
+              "type": "docker",
+              "settings": {
+                "image": "mcr.microsoft.com/azureiotedge-agent:1.0",
+                "createOptions": "{}"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
