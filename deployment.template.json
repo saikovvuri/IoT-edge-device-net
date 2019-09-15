@@ -11,9 +11,9 @@
             "loggingOptions": "",
             "registryCredentials": {
               "edgerepository": {
-                "username": "$CONTAINER_REGISTRY_USERNAME_edgerepository",
-                "password": "$CONTAINER_REGISTRY_PASSWORD_edgerepository",
-                "address": "edgerepository.azurecr.io"
+                "username": "$CONTAINER_REGISTRY_USERNAME",
+                "password": "$CONTAINER_REGISTRY_PASSWORD",
+                "address": "$CONTAINER_REGISTRY_USERNAME.azurecr.io"
               }
             }
           }

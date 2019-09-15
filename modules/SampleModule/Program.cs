@@ -58,7 +58,7 @@ namespace SampleModule
             {
                 if (!int.TryParse(appSettings[MessageCountConfigKey], out messageCount))
                 {
-                    messageCount = 500;
+                    messageCount = -1;
                 }
             }
 
