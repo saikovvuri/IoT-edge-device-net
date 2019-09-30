@@ -3,8 +3,8 @@
 # https://aka.ms/yaml
 
 pool:
-  name: Hosted Ubuntu 1604
-  
+  name: Hosted Ubuntu 1804
+
 steps:
 - task: CopyFiles@2
   displayName: 'Copy unaltered source to: $(Build.ArtifactStagingDirectory)'
